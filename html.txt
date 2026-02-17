@@ -1,2 +1,4 @@
 Hi hello 
 This is HTML file
+
+HTML: HTML refers to hyper text markup language which is used to create static web pages.
